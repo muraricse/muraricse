@@ -5,4 +5,5 @@ purpul
 oriange
 blue
 sky
+green
 these are the colors of the rainbow
