@@ -9,3 +9,6 @@ green
 pink
 these are the colors of the rainbow
 and the unicorn.
+red
+purpul
+sky
