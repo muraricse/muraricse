@@ -6,4 +6,5 @@ oriange
 blue
 sky
 green
+pink
 these are the colors of the rainbow
